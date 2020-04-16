@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/logs/logs",
+    "pages/index/index" 
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#0f0",
+    "navigationBarTitleText": "CNY换算",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}
